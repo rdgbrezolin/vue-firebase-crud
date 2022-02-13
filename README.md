@@ -1,24 +1,35 @@
-# vue-crud-firebase
+# vue-crud-firebase project
+- CRUD de usuários utilizando:
+1.  VueJS
+2.  Firebase
+3.  Bootstrap
 
-## Project setup
+## Passos para executar o projeto
+
+### Clonar o repositório
 ```
+git clone url-do-repositorio
+
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar projeto no seu ambiente local
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar projeto (produção)
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Executar o Lint
 ```
 npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Rodrigo Brezolin
+Projeto realizado em 6h20m
+13/02/2021
+Linkedin: https://www.linkedin.com/in/rodrigobrezolin/
