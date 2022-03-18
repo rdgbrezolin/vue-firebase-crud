@@ -30,6 +30,5 @@ npm run lint
 
 ### Customize configuration
 Rodrigo Brezolin
-Projeto realizado em 6h20m
 13/02/2021
 Linkedin: https://www.linkedin.com/in/rodrigobrezolin/
